@@ -1,2 +1,2 @@
-# 8088-kernel
-A DIY learning kernel for XT era PCs
+# xt-kernel
+A DIY learning kernel for XT era PCs 
